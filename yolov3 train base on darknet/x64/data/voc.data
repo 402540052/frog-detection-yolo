@@ -1,0 +1,6 @@
+classes= 11
+train  = C:\Users\Niu\Desktop\project\2007_train.txt
+valid  = C:\Users\Niu\Desktop\project\2007_test.txt
+names = C:\Users\Niu\Desktop\darknet-master\build\darknet\x64\data\voc.names
+backup = backup
+

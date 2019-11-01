@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1080598698873",
+    "firebase_url": "https://frog-detect.firebaseio.com",
+    "project_id": "frog-detect",
+    "storage_bucket": "frog-detect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080598698873:android:a725c6359a2ee19efcada8",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080598698873-a3a68rljaolch205i5g1g2i2b9p7qe1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzTqQ0dghSlgkQIu6Ud7LRb-X4zRNMF14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080598698873-a3a68rljaolch205i5g1g2i2b9p7qe1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

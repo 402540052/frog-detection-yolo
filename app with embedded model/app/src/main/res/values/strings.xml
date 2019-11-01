@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YOLO-Frog-Detection</string>
+    <string name="button">Capture</string>
+</resources>
