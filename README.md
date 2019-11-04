@@ -48,7 +48,8 @@ Reference:https://github.com/thtrieu/darkflow
 Yolov3 train base on darknet
 -
 used to train yolov3 model
-you can use "darknet.exe detector train cfg/voc.data cfg/yolov3-voc.cfg darknet53.conv.74" to train the model
+
+Enter x64 folder and you can use "darknet.exe detector train cfg/voc.data cfg/yolov3-voc.cfg darknet53.conv.74" to train the model
 
 Reference:https://github.com/AlexeyAB/darknet
 
