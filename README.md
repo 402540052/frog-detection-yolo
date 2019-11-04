@@ -51,3 +51,10 @@ used to train yolov3 model
 you can use "darknet.exe detector train cfg/voc.data cfg/yolov3-voc.cfg darknet53.conv.74" to train the model
 
 Reference:https://github.com/AlexeyAB/darknet
+
+SSD train
+-
+used to train SSD model
+you can use "python train.py" to train the model
+
+Reference:https://github.com/amdegroot/ssd.pytorch
