@@ -59,3 +59,11 @@ used to train SSD model
 you can use "python train.py" to train the model
 
 Reference:https://github.com/amdegroot/ssd.pytorch
+
+faster_rcnn_inception_v2_coco
+-
+used to train Faster_rcnn model
+the package includes the python code to generate CSV.file and TFRecord.
+you can use "faster_rcnn.ipynb" to train the model
+
+Reference:https://github.com/tensorflow/models/tree/master/research/object_detection
